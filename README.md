@@ -1,6 +1,6 @@
 # GraphQl Sandbox
 
-This project is a POC for visualizing recent launches from the SpaceX GraphQL API: (https://github.com/apollographql/spacex)[https://github.com/apollographql/spacex]. 
+This project is a POC for visualizing recent launches from the SpaceX GraphQL API: [https://github.com/apollographql/spacex](https://github.com/apollographql/spacex). 
 
 ## Getting Started:
 
